@@ -1,4 +1,3 @@
-# Smiley95.github.io
 # Pixel Art Maker Project
 
 ## Table of Contents
