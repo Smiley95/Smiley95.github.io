@@ -5,7 +5,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [ link to my application](# link-to-my-application)
+* [link to my application](#link-to-my-application)
 ## Instructions
 
 To get started, open `designs.js` and start building out the app's functionality.
