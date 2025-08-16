@@ -20,7 +20,7 @@ main:
     url: /#volunteer
     weight: 13
   - name: Awards & Certificates
-    url: Awd&Certif/
+    url: awards/
     weight: 30
   - name: Contact
     url: Contact/
