@@ -4,24 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: G2Kme
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Studies
+    url: /#studies
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Tools
+    url: /#tools
     weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Career
+    url: career/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Volunteering
+    url: /#volunteer
+    weight: 13
+  - name: Awards & Certificates
+    url: Awd&Certif/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Contact
+    url: Contact/
     weight: 40
