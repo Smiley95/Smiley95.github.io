@@ -139,7 +139,7 @@ languages:
   - name: Portuguese
     percent: 25
 
-# Awards.
+# Awards & Certificates.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
@@ -173,4 +173,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With 5 years of experience in iNGOs and a fresh specialization in project management, I bridge people, processes, and data to drive inclusive development. From designing MEAL systems that fuel decisions (not just reports) to facilitating participatory workshops, I’m passionate about making programs smarter, accountable, and deeply human-centered.
