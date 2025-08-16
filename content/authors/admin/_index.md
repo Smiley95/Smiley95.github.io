@@ -51,10 +51,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Software engineering
+    institution: Higher institute of computer Science (ISI- El Manar)
+    date_start: 2017-09-01
+    date_end: 2020-09-24
     summary: |
       GPA: 3.8/4.0
 
@@ -62,10 +62,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Software development and Computer science
+    institution: Higher institute of computer Science (ISI- El Manar)
+    date_start: 2014-09-15
+    date_end: 2017-06-05
     summary: |
       GPA: 3.4/4.0
       
